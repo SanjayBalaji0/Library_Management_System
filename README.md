@@ -1,7 +1,7 @@
 # Library_Management_System
 ## AIM:
  To study the problem statement, SRS document and draw all the UML
- diagrams of aLibrary Management System.
+ diagrams of a Library Management System.
  
 ## PROBLEMSTATEMENT:
  To create Library Management System software that will meet the needs of the
