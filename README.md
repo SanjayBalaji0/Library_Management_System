@@ -36,7 +36,7 @@
 ![LIBRARY MANAGEMENT SYSTEM(SEQUENCE DIAGRAM)](https://github.com/SanjayBalaji0/Library_Management_System/assets/145533553/25661fb6-7296-4bfc-8188-6d04228471cc)
 ## SEQUENCE DIAGRAM
 
-![LIBRARY MANAGEMENT SYSTEM(ACTIVITY DIAGRAM)](https://github.com/SanjayBalaji0/Library_Management_System/assets/145533553/49f2a3fb-0f7a-4dab-9e9c-7c17b364094d)
+![LIBRARY MANAGEMENT SYSTEM(ACTIVITY DIAGRAM)](https://github.com/SanjayBalaji0/Library_Management_System/assets/145533553/e98aae47-a166-44a0-8890-8327a4cedea9)
 ## ACTIVITY DIAGRAM
 
 ## RESULT:
