@@ -23,20 +23,21 @@
 ### Cancellation for the Book:
  In this module the user can canceltheir name which is registered for the Book.
 
-## USECASE DIAGRAM
+
 ![LIBRARY MANAGEMENT SYSTEM(USECASE DIAGRAM)](https://github.com/SanjayBalaji0/Library_Management_System/assets/145533553/a1c54709-e25e-4424-9763-75564a26eadf)
+## USECASE DIAGRAM
 
-## PACKAGE DIAGRAM
 ![LIBRARY MANAGEMENT SYSTEM(PACKAGE DIAGRAM)](https://github.com/SanjayBalaji0/Library_Management_System/assets/145533553/6ce04db1-3d20-4cd9-a4b7-18002be18a6c)
+## PACKAGE DIAGRAM
 
-## CLASS DIAGRAM
 ![LIBRARY MANAGEMENT SYSTEM(CLASS DIAGRAM)](https://github.com/SanjayBalaji0/Library_Management_System/assets/145533553/6343f056-74db-4b9b-a1d0-83aec185cd79)
+## CLASS DIAGRAM
 
-## SEQUENCE DIAGRAM
 ![LIBRARY MANAGEMENT SYSTEM(SEQUENCE DIAGRAM)](https://github.com/SanjayBalaji0/Library_Management_System/assets/145533553/25661fb6-7296-4bfc-8188-6d04228471cc)
+## SEQUENCE DIAGRAM
 
-## ACTIVITY DIAGRAM
 ![LIBRARY MANAGEMENT SYSTEM(ACTIVITY DIAGRAM)](https://github.com/SanjayBalaji0/Library_Management_System/assets/145533553/49f2a3fb-0f7a-4dab-9e9c-7c17b364094d)
+## ACTIVITY DIAGRAM
 
 ## RESULT:
  Thus, the Library management system project was executed and the output
